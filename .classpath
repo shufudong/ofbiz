@@ -203,5 +203,7 @@
 	<classpathentry kind="lib" path="framework/catalina/lib/tomcat-extras-8.0.33-tomcat-juli.jar"/>
 	<classpathentry kind="lib" path="framework/base/lib/xstream-1.4.9.jar"/>
 	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="framework/entity/lib/jdbc/derby-10.11.1.1.jar"/>
+	<classpathentry kind="lib" path="framework/entity/lib/jdbc/mysql-connector-java-5.1.26.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
